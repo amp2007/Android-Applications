@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Think Fast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="appTitle">Think Fast: The Game of Knowledge</string>
+    <string name="appDescription">Prove your knowledge by simply answering trivia questions,beware you have only 60 seconds to answer. Want to play?</string>
+	<string name="mainScreenButtonText">Let\'s Play!</string>
+	<string name="brainPic">Picture used for animation</string>
+	<string name="imgLarge">Picture picked from categories</string>
+	<string name="categoryButton">Play</string>
+	<string name="timerAlert">You have 60 seconds to answer the question. Shake the device to start your timer and receive your question.</string>
+	<string name="finalScore">FINAL SCORE</string>
+	<string name="highScore">HIGH SCORE</string>
+	<string name="tryAgain">TRY AGAIN</string>
+	<string name="nextQuestion">NEXT QUESTION</string>
+	<string name="quit">QUIT</string>
+	<string name="questionButton">SUBMIT</string>
+	<string name="correctAnswer">CORRECT!</string>
+	<string name="nextQuestionButton">NEXT QUESTION</string>
+	<string name="defaultScore">0</string>
+	<string name="updateScore">UPDATE SCORE</string>
+</resources>
