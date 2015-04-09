@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Magic 8 Ball</string>
+    <string name="description">Want to learn your future? Ask the magic ball and the magic ball will tell you!</string>
+    <string name="name">Allen Perry</string>
+    <string name="label">Given to you by:</string>
+    <string name="title_activity_main">Know Your Future</string>
+    <string name="question">Ask a question and turn the phone over</string>
+    <string name="label2">Assistance from:</string>
+    <string name="otherNames">William A Francis (Tech Republic), t-gao (StackOverflow)</string>
+
+</resources>
